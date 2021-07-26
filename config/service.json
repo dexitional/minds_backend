@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "backup-jobs-315617",
+  "private_key_id": "c51059ec6093b6e7c91d7370a9045c9dd4b36d1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmMkhSlhM8EzMY\nYPPQI8w0CCoMaevJO4JqbMPBEtORLBGWjy54rN/7/28/YrkdeAthRjgH7KT+ZlrG\nLQbJvwXlb7/v5mme1/wdteBeMWKCEwMpk53ueO5kh0IuwsALpE9eYrbTuImit9La\nFRlvIFRajC0QEg8hIAtUVQP6Syhfl1F0+6R99WpmEeTsHq8NGnKdogIkenzfPP0Y\nsahNC5vcnpuNBVuBYjpKZMsCWnS59eSdHm7QqXi0/DK287YlOr5sRkwr3R9cTd5K\n/7URNwtODNWj68/kjD5MTYiZRomkIZcAB26PCp7se2zJ+EWhFFd1EGxTZcwaFGPN\nu+iyOV4lAgMBAAECggEAAeUqOfbdep6QGJkSbq8vJvC+OgIDNE+UvyNFCttCGl0G\n86aSVcHy6UFnwrCc18nZ/LP7nkDZPiVrUj3f3pu/tMwUw5GRvBlOa1r67K1iKDA7\nUFVkmabmC7NsfR1aFJ09DSB8YTxbesWJ2/7IRCIkPsbBGiElQbAchkup40geymg/\nR7qcJg+jNd1w1Io+F70s4zPWix4T5Wd6xap27QDR7LAtSYE2i2eaMPa/YoAl6djs\nDIJo5hPD9mCwkiPvsMfTR3g9A0vnS+UGq+ogZA1npOgfHuX3RvshyR4MNT22Eci5\nGeMF5OCi0EMo1vmO68vmZH2Skijqz7WhhkZvV2UGwQKBgQDepXKZ39xU78+mhpcC\nVNwXGXq9nzYRpI5BTUG1iEVltozkWERld/UjltJ808aC2xnlmwkAa/gy7dFgZzOD\nPbyIOPoKLYRJBnPf5afV9xzLwYkWY8GA0fwozqYB0LQsK3jKdarPeQmhwu/ZxEk0\nEWKTbXH+Ftj5/kvv7S9phOFQGQKBgQC/F/coE1Lhyv0J4PAM3mc/wRt6xekubrxg\nDidaZsYfQIZrf0IzQY3iNhq/8CpME8hkXqTSBeu4mQrA5kyz6ivAJcLX9kTEIpYz\n9+kCNZOdh5If9R3quSGFE7+8dxJ8s8NxcPhxck+nN3wf4QI643PQOlQTcBusq4DH\nfehukI7P7QKBgQCZSM7doYHP+Eq+G2tb75CXVrNqWXKgMuq9irLyiB8/J69YhmyQ\nb0YWen/v8N16ud3adiJ8Z9k5NwIvnN2aPabPImsDFtM8c3TTcQlcBgWNQnFfOM7A\nIdG5RoyEM2vX/RXsTZaLwIkhFVSMWNcNQercFT2l8ZTwiGM/i8xYmWOGAQKBgHqF\nABd2xEY2oqRJzz9A/Uv4IQlHiSkXILopePvSNybkdQrJLgW0+yZVcDMt5cCfUnVf\n5ScvWqIhpa5mOjmEY4av70wN/qsOTeWGBqQ++6Udvge1XfgXuLEdJ2rLoVPI4f+C\n4hfCpeVdgrzhxE9DdAbGzw8jaur7jvbY+ESjdJ1FAoGAYO/0s7iPIgL8JZ3zVmxe\nu79uneW5EmHr8TKil6U/jzjMwwxs8DsJUxVHZ/kN2lom/WZV8Q5PBve1YWAl4ckr\nZ9ug6oUK5fMmY3BwQsVt5EVp/bvNEWvsChWN0HglFXnkoGCp2nEyDcOlEl6iXvV/\nBVIOy+pc2PepvtmgGw4+eoM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "db-backup@backup-jobs-315617.iam.gserviceaccount.com",
+  "client_id": "103537352183472376744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/db-backup%40backup-jobs-315617.iam.gserviceaccount.com"
+}

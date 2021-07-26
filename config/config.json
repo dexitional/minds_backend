@@ -1,0 +1,8 @@
+{
+    "DB_OPTIONS" : {
+        "host" : "127.0.0.1",
+        "database" : "minds"
+
+    },
+    "SCHEDULE_TIME" : ""
+}

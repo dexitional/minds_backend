@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4749cc8.chunk.css",
+    "main.js": "/static/js/main.6dcb7c04.chunk.js",
+    "main.js.map": "/static/js/main.6dcb7c04.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9da4c15d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9da4c15d.js.map",
+    "static/js/2.03e681ac.chunk.js": "/static/js/2.03e681ac.chunk.js",
+    "static/js/2.03e681ac.chunk.js.map": "/static/js/2.03e681ac.chunk.js.map",
+    "static/js/3.c5699e9f.chunk.js": "/static/js/3.c5699e9f.chunk.js",
+    "static/js/3.c5699e9f.chunk.js.map": "/static/js/3.c5699e9f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e4749cc8.chunk.css.map": "/static/css/main.e4749cc8.chunk.css.map",
+    "static/js/2.03e681ac.chunk.js.LICENSE.txt": "/static/js/2.03e681ac.chunk.js.LICENSE.txt",
+    "static/media/bg.cf8f8c10.jpg": "/static/media/bg.cf8f8c10.jpg",
+    "static/media/cement.d80d143b.png": "/static/media/cement.d80d143b.png",
+    "static/media/element-banner2-right.db0d213b.jpeg": "/static/media/element-banner2-right.db0d213b.jpeg",
+    "static/media/loadergif.89784de0.gif": "/static/media/loadergif.89784de0.gif",
+    "static/media/logo.227f5c51.png": "/static/media/logo.227f5c51.png",
+    "static/media/logo.8181c6dd.png": "/static/media/logo.8181c6dd.png",
+    "static/media/paid1.ec4b7ebe.jpeg": "/static/media/paid1.ec4b7ebe.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9da4c15d.js",
+    "static/js/2.03e681ac.chunk.js",
+    "static/css/main.e4749cc8.chunk.css",
+    "static/js/main.6dcb7c04.chunk.js"
+  ]
+}
