@@ -12783,9 +12783,13 @@ table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.
     -webkit-transition: left 0.3s ease, right 0.3s ease, bottom 0.3s ease, top 0.3s ease;
     transition: left 0.3s ease, right 0.3s ease, bottom 0.3s ease, top 0.3s ease;
     left: -295px;
-    width: 275px; }
+    width: 275px;
+    overflow:scroll;
+  }
     .aside.aside-on {
-      left: 0; }
+      left: 0;
+      overflow:scroll
+  }
   .aside-overlay.active {
     position: fixed;
     top: 0;
@@ -13050,7 +13054,7 @@ table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.
   .header-mobile-fixed .header-menu-wrapper {
     display: none; }
   .topbar {
-    position: fixed;
+    /*position: fixed;*/
     z-index: 96;
     top: 0;
     left: 0;
